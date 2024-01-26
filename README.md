@@ -1,4 +1,4 @@
-![image](https://github.com/NewReyy/Time-Series-Classification/assets/72202432/09247cac-8123-4394-8f6d-37250a18423)
+![image](https://github.com/NewReyy/Time-Series-Classification/assets/72202432/09247cac-8123-4394-8f6d-37250a184232)
 
 # Kriteria Terpenuhi
 
